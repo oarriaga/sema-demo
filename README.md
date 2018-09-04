@@ -12,6 +12,6 @@ python2:
 
 python3:
 
-`python -m http.server`
+`python3 -m http.server`
 
 Launch Chrome browser and go to `http://localhost:8000`
